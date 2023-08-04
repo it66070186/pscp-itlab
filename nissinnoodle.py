@@ -1,0 +1,3 @@
+"""nissin"""
+def main():
+    """nissan"""
